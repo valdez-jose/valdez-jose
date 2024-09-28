@@ -1,5 +1,4 @@
-# Hola 👋
-Bienvenido al Github de José <br/>
+# Hola 👋 Bienvenido al Github de José <br/>
 ![Banner-img.png](./imagenes/Banner-img.png)
 Soy un apasionado de la tecnología y un entusiasta del desarrollo de software. Con una sólida formación en informática.
 
