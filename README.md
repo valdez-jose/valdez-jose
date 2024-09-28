@@ -1,6 +1,6 @@
 # Hola 👋
 Bienvenido al Github de José 
-![Banner-img](./imagenes/Banner.png)
+![Banner-img.png](./imagenes/Banner-img.png)
 Soy un apasionado de la tecnología y un entusiasta del desarrollo de software. Con una sólida formación en informática.
 
 *   🌍 Soy paraguayo, radicado en Argentina desde hace 15 años .
