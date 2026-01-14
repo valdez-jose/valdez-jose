@@ -1,9 +1,10 @@
 # Hola 👋 Bienvenido al Github de José 
-![Banner-img.png](./imagenes/Banner-img.png)<br/>
+![Banner-img.png](./<img width="1584" height="396" alt="perfil-github" src="https://github.com/user-attachments/assets/b5db026e-caac-4908-91d7-8fe224c9d09b" />
+)<br/>
 Soy un apasionado de la tecnología y un entusiasta del desarrollo de software. Con una sólida formación en informática.
 
-*   🌍 Soy paraguayo, radicado en Argentina desde hace 15 años .
-*   ✉️ Puedes contactarme en [jusepetony7@gmail.com](mailto:jusepetony7@gmail.com)[](mailto:jusepetony7@gmail.com)
+*   Soy José Valdez .
+*   ✉️ Pueden contactarme en [jusepetony7@gmail.com](mailto:jusepetony7@gmail.com)[](mailto:jusepetony7@gmail.com)
 *   🧠 Estoy aprendiendo Full-Stack  <br/>
  <p> HABILIDADES:</p>
 <p align="left">
