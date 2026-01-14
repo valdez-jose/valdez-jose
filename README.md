@@ -1,6 +1,6 @@
 # Hola 👋 Bienvenido al Github de José 
-(./<img width="1584" height="396" alt="perfil-github" src="https://github.com/user-attachments/assets/b5db026e-caac-4908-91d7-8fe224c9d09b" />
-)<br/>
+<img width="1584" height="396" alt="perfil-github" src="https://github.com/user-attachments/assets/b5db026e-caac-4908-91d7-8fe224c9d09b" />
+  <br/>
   Soy **Desarrollador Web**, enfocado en:
   - JavaScript
   - React
