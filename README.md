@@ -3,7 +3,11 @@
 )<br/>
 Soy un apasionado de la tecnología y un entusiasta del desarrollo de software. Con una sólida formación en informática.
 
-*   Soy José Valdez .
+  Soy **Desarrollador Web**, enfocado en:
+  - JavaScript
+  - React
+  - HTML & CSS
+  - Node.js (aprendiendo)
 *   ✉️ Pueden contactarme en [jusepetony7@gmail.com](mailto:jusepetony7@gmail.com)[](mailto:jusepetony7@gmail.com)
 *   🧠 Estoy aprendiendo Full-Stack  <br/>
  <p> HABILIDADES:</p>
