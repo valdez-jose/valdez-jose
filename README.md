@@ -8,6 +8,7 @@ Soy **Desarrollador Web**, enfocado en:
 - HTML & CSS
 - Node.js (aprendiendo)
  <p> HABILIDADES:</p>
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glosario/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -53,9 +54,6 @@ Soy **Desarrollador Web**, enfocado en:
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
   </a>
 </p>
- 
-                    
-<!--
 **valdez-jose/valdez-jose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
