@@ -1,4 +1,4 @@
-# Hola, soy josé 👋 Bienvenido mi Github
+# Hola, soy josé 👋 Bienvenido a mi Github
 <img width="1584" height="396" alt="perfil-github" src="https://github.com/user-attachments/assets/b5db026e-caac-4908-91d7-8fe224c9d09b" />
   <br/>
   
