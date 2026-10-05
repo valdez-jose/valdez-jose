@@ -84,7 +84,7 @@ Actualmente continúo desarrollando proyectos prácticos para fortalecer mis con
 ### ☁️ Despliegue
 
 <a href="https://render.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/render" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_Render_AR.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" width="50">
 </a>
 
 <a href="https://vercel.com/" target="_blank">
