@@ -82,19 +82,20 @@ Actualmente continúo desarrollando proyectos prácticos para fortalecer mis con
 </a>
 
 ### ☁️ Despliegue
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center;">
 
   <a href="https://render.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_Render_AR.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-         width="45"
-         height="45"
+         width="47"
+         height="47"
          style="border-radius: 50%; object-fit: cover;">
   </a>
 
-  <a href="https://vercel.com/">
+  <a href="https://vercel.com/" style="margin-left: 20px;">
     <img src="https://skillicons.dev/icons?i=vercel" width="50">
   </a>
 
 </div>
+
 
 
