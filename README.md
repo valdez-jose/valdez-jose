@@ -86,6 +86,8 @@ Actualmente continúo desarrollando proyectos prácticos para fortalecer mis con
 <a href="https://render.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=render" width="50">
 </a>
+
 <a href="https://vercel.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" width="50">
 </a>
+
