@@ -82,12 +82,12 @@ Actualmente continúo desarrollando proyectos prácticos para fortalecer mis con
 </a>
 
 ### ☁️ Despliegue
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 20px;">
 
   <a href="https://render.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_Render_AR.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-         width="40"
-         height="40"
+         width="45"
+         height="45"
          style="border-radius: 50%; object-fit: cover;">
   </a>
 
