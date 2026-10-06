@@ -1,10 +1,12 @@
 <div align="center">
 # 👋 Hola, soy José Antonio Valdez<br>
+  
 ### 💻 Desarrollador Backend | APIs REST | Bases de Datos
 </div>
 <div align="center">
   <img src="./imagenes/header.jpg" alt="Header" width="100%">
 </div>
+
 ## 👨‍💻 Sobre mí
 Soy desarrollador enfocado en la creación de aplicaciones web y APIs REST.
 Me interesa especialmente el desarrollo backend, el diseño de APIs, las bases de datos y la integración entre backend y frontend.
