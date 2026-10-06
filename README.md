@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hola, soy José Antonio Valdez
+# 👋 Hola, soy José Antonio Valdez<br>
 ### 💻 Desarrollador Backend | APIs REST | Bases de Datos
 </div>
 <div align="center">
